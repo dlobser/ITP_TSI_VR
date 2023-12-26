@@ -40,20 +40,20 @@ Material:
     m_Ints: []
     m_Floats:
     - _Add: 0
-    - _Gamma: 5
+    - _Gamma: 9.77
     - _Multiply: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RingBrightness: 0
     - _RingEdgeFade: 0
     - _RingMix: 0
-    - _RingSize: 0
+    - _RingSize: 1.9
     - _RingThickness: 0
     - _StrobeAmount: 0
     - _StrobeSpeed: 0
     m_Colors:
-    - _ColorA: {r: 0.084905684, g: 0.06506116, b: 0.018155923, a: 1}
-    - _ColorB: {r: 0.4120789, g: 0.25314462, b: 0.5, a: 1}
+    - _ColorA: {r: 0.053348117, g: 0.014684941, b: 0.09433961, a: 1}
+    - _ColorB: {r: 0.4056604, g: 0.23153257, b: 0.38917175, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6065512372565097695
 MonoBehaviour:
